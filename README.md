@@ -98,13 +98,3 @@ I'm always open to connecting, collaborating on projects, and discussing opportu
 - Full Stack Development
 - Software Engineering Practices
 
-## 🤝 Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/
-
-GitHub:
-https://github.com/SabahudinShinwari
-
-Email:
-sabahudinshinwari@gmail.com
