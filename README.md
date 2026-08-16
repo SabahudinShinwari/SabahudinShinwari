@@ -34,6 +34,7 @@ I enjoy building practical software solutions and turning ideas into functional,
 
 ## 🚀 Featured Projects
 
+🚀 Library Management System
 A full-stack web application developed during my Full Stack Development Internship at DecodeLabs using Node.js, Express.js, MySQL, HTML, CSS, and JavaScript. The system provides user authentication, book management, borrowing and return functionality, password reset, borrowing history, and dashboard statistics.
 
 ### 🎓 Student Management System
