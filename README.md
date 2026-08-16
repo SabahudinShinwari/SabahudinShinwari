@@ -120,6 +120,10 @@ I actively use GitHub to build projects, practice programming, and document my l
 - Full Stack Development
 - Software Engineering Practices
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=twinkling" width="100%" />
+</p>
+
 ## 🤝 Connect With Me
 
 I'm always open to connecting, collaborating on projects, and discussing opportunities in software development, AI, and technology.
