@@ -91,6 +91,15 @@ A responsive personal portfolio website designed to showcase my projects, techni
 
 **Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project1_Responsive_Website)
 
+## 📈 GitHub Activity
+
+I actively use GitHub to build projects, practice programming, and document my learning journey.
+
+- 💻 Full-stack web development projects
+- 🐍 Python programming and practice
+- 🔧 Software development and coursework projects
+- 🚀 Continuous learning through hands-on projects
+
 
 ## 🌱 Currently Learning
 
