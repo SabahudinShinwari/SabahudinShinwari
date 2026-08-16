@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am a Computer Science student at Albukhary International University, passionate about **Full Stack Development, Artificial Intelligence, Machine Learning, and Data Science**.
+I am a Computer Science student at Albukhary International University with a strong interest in Full Stack Development, Artificial Intelligence, Machine Learning, and Data Science.
 
-Currently, I am developing real-world applications and improving my skills in software development, web technologies, and AI-driven solutions.
+I enjoy building practical software solutions and developing real-world applications while continuously improving my skills in web development, backend systems, and AI-driven technologies.
 
 ## 💻 Technical Skills
 
