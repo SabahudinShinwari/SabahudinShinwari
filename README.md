@@ -53,7 +53,20 @@ A full-stack web application developed during my Full Stack Development Internsh
 **Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project3_Library_Management_System)
 
 ### 🎓 Student Management System
-A web-based system for managing student information with CRUD operations and database integration.
+
+A full-stack web application for managing student information with complete CRUD functionality and database integration.
+
+**Technologies:** Node.js • Express.js • MySQL • HTML5 • CSS3 • JavaScript
+
+**Key Features:**
+- ➕ Add student records
+- 👀 View student information
+- ✏️ Update student records
+- 🗑️ Delete student records
+- 🗄️ MySQL database integration
+- 🔗 RESTful API integration
+
+**Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project2_Student_Management_System) 
 
 ## 🌱 Currently Learning
 
