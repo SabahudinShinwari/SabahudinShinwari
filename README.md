@@ -95,18 +95,22 @@ Node.js • Express.js • MySQL • HTML5 • CSS3 • JavaScript
 
 ### 🌐 Responsive Personal Portfolio Website
 
-A responsive personal portfolio website designed to showcase my projects, technical skills, and experience in Computer Science, Artificial Intelligence, Machine Learning, and Full Stack Development.
+A responsive personal portfolio website designed to showcase my projects, technical skills, experience, and interests in technology.
 
-**Technologies:** HTML5 • CSS3 • JavaScript
+**🎯 Purpose:**  
+To create a professional online presence for presenting my development projects, skills, and technical interests.
 
-**Key Features:**
-- 📱 Responsive design
-- 🎨 Modern and clean user interface
+**🛠️ Technologies:**  
+HTML5 • CSS3 • JavaScript
+
+**✨ Key Features:**
+- 📱 Responsive design for different screen sizes
+- 🎨 Clean and modern user interface
 - 💼 Projects and skills showcase
 - 🤖 AI and Machine Learning focus
 - ⚡ Interactive and user-friendly sections
 
-**Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project1_Responsive_Website)
+**🔗 Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project1_Responsive_Website)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=twinkling" width="100%" />
