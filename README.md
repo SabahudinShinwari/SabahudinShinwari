@@ -68,6 +68,21 @@ A full-stack web application for managing student information with complete CRUD
 
 **Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project2_Student_Management_System) 
 
+### 🌐 Responsive Personal Portfolio Website
+
+A modern, responsive personal portfolio website designed to showcase my projects, technical skills, and experience in Computer Science, Artificial Intelligence, Machine Learning, and Full Stack Development.
+
+**Technologies:** HTML5 • CSS3 • JavaScript
+
+**Key Features:**
+- 📱 Responsive design for different screen sizes
+- 🎨 Modern and clean user interface
+- 👨‍💻 Projects and skills showcase
+- 🧠 AI and Machine Learning focus
+- ⚡ Interactive and user-friendly sections
+
+**Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project1_Responsive_Website) 
+
 ## 🌱 Currently Learning
 
 - Artificial Intelligence
