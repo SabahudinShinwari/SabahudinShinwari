@@ -60,9 +60,7 @@ A full-stack web application developed during my Full Stack Development Internsh
 
 **Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project3_Library_Management_System)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=twinkling" width="100%" />
-</p>
+---
 
 ### 🎓 Student Management System
 
