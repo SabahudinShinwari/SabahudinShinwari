@@ -97,6 +97,10 @@ A responsive personal portfolio website designed to showcase my projects, techni
 
 **Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project1_Responsive_Website)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=twinkling" width="100%" />
+</p>
+
 ## 📈 GitHub Activity
 
 I actively use GitHub to build projects, practice programming, and document my learning journey.
