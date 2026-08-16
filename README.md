@@ -90,8 +90,7 @@ Node.js • Express.js • MySQL • HTML5 • CSS3 • JavaScript
 - 🗄️ MySQL database integration
 - 🔗 RESTful API integration
 
-**🔗 Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project2_Student_Management_System) 
----
+Repository: [View on GitHub](https://github.com/SabahudinShinwari/Project2_Student_Management_System).
 
 ### 🌐 Responsive Personal Portfolio Website
 
