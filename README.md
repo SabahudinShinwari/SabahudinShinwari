@@ -34,8 +34,23 @@ I enjoy building practical software solutions and turning ideas into functional,
 
 ## 🚀 Featured Projects
 
-🚀 Library Management System
-A full-stack web application developed during my Full Stack Development Internship at DecodeLabs using Node.js, Express.js, MySQL, HTML, CSS, and JavaScript. The system provides user authentication, book management, borrowing and return functionality, password reset, borrowing history, and dashboard statistics.
+### 📚 Library Management System
+
+A full-stack web application developed during my Full Stack Development Internship at DecodeLabs.
+
+**Technologies:** Node.js • Express.js • MySQL • HTML5 • CSS3 • JavaScript
+
+**Key Features:**
+- 🔐 User authentication and password reset
+- 📚 Book management and search
+- 🔄 Borrow and return functionality
+- 📊 Admin and user dashboards
+- 📖 Borrowing history
+- 🗄️ MySQL database integration
+- 🔗 RESTful API
+- ⚡ Input validation and error handling
+
+**Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project3_Library_Management_System)
 
 ### 🎓 Student Management System
 A web-based system for managing student information with CRUD operations and database integration.
