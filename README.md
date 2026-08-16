@@ -91,6 +91,17 @@ A responsive personal portfolio website designed to showcase my projects, techni
 
 **Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project1_Responsive_Website)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SabahudinShinwari&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabahudinShinwari&layout=compact&theme=default&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SabahudinShinwari&theme=default&hide_border=true" />
+</p>
+
 ## 🌱 Currently Learning
 
 - Artificial Intelligence
