@@ -110,6 +110,10 @@ I actively use GitHub to build projects, practice programming, and document my l
 - 🔧 Software development and coursework projects
 - 🚀 Continuous learning through hands-on projects
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=twinkling" width="100%" />
+</p>
+
 
 ## 🌱 Currently Learning
 
