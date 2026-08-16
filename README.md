@@ -1,10 +1,14 @@
 # Hi, I'm Sabahudin Shinwari 👋
 
-## About Me
+### Computer Science Student | Full Stack Developer | AI & Machine Learning
 
-I am a Computer Science student at Albukhary International University with a strong interest in Full Stack Development, Artificial Intelligence, Machine Learning, and Data Science.
+I am a Computer Science student at **Albukhary International University** with a strong interest in **Full Stack Development, Artificial Intelligence, Machine Learning, and Data Science**.
 
-I enjoy building practical software solutions and developing real-world applications while continuously improving my skills in web development, backend systems, and AI-driven technologies.
+I enjoy building practical software solutions and turning ideas into functional, user-focused applications. I am particularly interested in **web development, backend systems, databases, and AI-driven technologies**.
+
+🚀 Currently building real-world projects and strengthening my software development skills.
+
+🎯 Interested in **Full Stack Development, AI/ML, backend development, and software engineering**.
 
 ## 💻 Technical Skills
 
