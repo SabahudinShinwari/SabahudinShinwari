@@ -83,6 +83,14 @@ A modern, responsive personal portfolio website designed to showcase my projects
 
 **Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project1_Responsive_Website) 
 
+## 🤝 Connect With Me
+
+I'm always open to connecting, collaborating on projects, and discussing opportunities in software development, AI, and technology.
+
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sabahudin-shinwari-a84587305/)
+- 📧 **Email:** [sabahudinshinwari@gmail.com](mailto:sabahudinshinwari@gmail.com)
+- 💻 **GitHub:** [SabahudinShinwari](https://github.com/SabahudinShinwari)
+
 ## 🌱 Currently Learning
 
 - Artificial Intelligence
