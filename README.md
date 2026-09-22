@@ -115,6 +115,9 @@ Node.js • Express.js • MySQL • HTML5 • CSS3 • JavaScript
 - 🔗 RESTful API integration
 
 **Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project2_Student_Management_System).
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=twinkling" width="100%" />
+</p>
 
 ### 🌐 Responsive Personal Portfolio Website
 
