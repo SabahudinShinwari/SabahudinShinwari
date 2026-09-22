@@ -52,6 +52,25 @@ I enjoy building practical software solutions and turning ideas into functional,
 
 ## 🚀 Featured Projects
 
+### 🛡️ QRShield AI — Secure QR Encryption & Phishing Detection
+
+A full-stack cybersecurity application for password-protected QR code encryption, QR scanning and decryption, and machine-learning-based phishing URL analysis.
+
+**Technologies:** Python • Flask • React • TypeScript • Vite • scikit-learn • Vercel • Render
+
+**Key Features:**
+- 🔐 AES-256-GCM encryption with password-based key derivation
+- 📱 Encrypted QR code generation, scanning, and decryption
+- 🔎 Offline structural URL inspection
+- 🧠 Trained machine-learning model for phishing-pattern detection
+- 🌐 Publicly deployed frontend and backend
+- 🛡️ Transparent security and privacy limitations
+
+**Repository:** [View on GitHub](https://github.com/SabahudinShinwari/QRShield-AI)
+
+**Live Demo:** [Launch QRShield AI](https://qr-shield-ai-g8wo.vercel.app)
+
+---
 ### 📚 Library Management System
 
 A full-stack web application developed during my Full Stack Development Internship at DecodeLabs.
