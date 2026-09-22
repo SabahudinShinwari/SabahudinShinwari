@@ -74,7 +74,6 @@ A full-stack cybersecurity application for password-protected QR code encryption
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=twinkling" width="100%" />
 </p>
 
----
 ### 📚 Library Management System
 
 A full-stack web application developed during my Full Stack Development Internship at DecodeLabs.
@@ -93,7 +92,6 @@ A full-stack web application developed during my Full Stack Development Internsh
 
 **Repository:** [View on GitHub](https://github.com/SabahudinShinwari/Project3_Library_Management_System)
 
----
 
 ### 🎓 Student Management System
 
