@@ -70,6 +70,10 @@ A full-stack cybersecurity application for password-protected QR code encryption
 
 **Live Demo:** [Launch QRShield AI](https://qr-shield-ai-g8wo.vercel.app)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=twinkling" width="100%" />
+</p>
+
 ---
 ### 📚 Library Management System
 
